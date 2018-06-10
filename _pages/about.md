@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a graduate student in the Physics Department at the University of Wisconsin-Madison studying physics and computer science.
 
 ![des](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/07154652/12-0333-21d-hr-800x533.jpg)
 
