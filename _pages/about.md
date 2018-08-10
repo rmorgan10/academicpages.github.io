@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![ctio-pano](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjFqZmfiePcAhVo34MKHSBOAiYQjRx6BAgBEAU&url=http%3A%2F%2Fast.noao.edu%2Ffacilities%2Fctio&psig=AOvVaw1vCO0JxMJ1tzsdiDnS_OZD&ust=1534010665569293)
+![ctio-pano](/images/ctio-pano.jpg)
 Image Credit: National Optical Astronomy Observatory
 
 I am a graduate student in the Physics Department at the University of Wisconsin-Madison studying physics and computer science.
