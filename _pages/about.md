@@ -1,3 +1,6 @@
+![ctio-pano](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjFqZmfiePcAhVo34MKHSBOAiYQjRx6BAgBEAU&url=http%3A%2F%2Fast.noao.edu%2Ffacilities%2Fctio&psig=AOvVaw1vCO0JxMJ1tzsdiDnS_OZD&ust=1534010665569293)
+Image Credit: National Optical Astronomy Observatory
+
 ---
 permalink: /
 title: "About Me"
@@ -7,6 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a graduate student in the Physics Department at the University of Wisconsin-Madison studying physics and computer science.
 
 ![des](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/07154652/12-0333-21d-hr-800x533.jpg)
