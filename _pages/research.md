@@ -12,8 +12,9 @@ Something in space, most likely far outside our galaxy, must have emitted the ne
 
 My collaborators and I, as part of the Dark Energy Survey, use the Blanco 4-m Telescope located at the Cerro-Tololo International Observatory in Chile. After receiving a neutrino alert and sky location from IceCube, we take pictures of the part of the sky of interest using the 570 Megapixel Dark Energy Camera over approximately a three week period. We then subtract the images pixel-by-pixel from previous images of that same part of the sky to see if anything is significantly brighter than expected--like a recently exploded star would be.
 
-DES
-IceCube
+A major challenge for this project, is that a lot of things (typically several hundred) can change in the region of the sky we point the telescope at: there can be asteroids passing through our line-of-sight, galaxies can flare as their central black holes devour nearby stars and dust, and there can even be many supernovae that we detect that are unassociated with the neutrino. I have played a significant role in developing an automated procedure for sifting through the hundreds of transient objects to pick out the supernovae that are the correct chemical composition and exploded at the correct time to have plausibly been the source of the neutrino. To construct our selection procedure, I have used supernovae simulations, machine learning algorithms, and several data analysis and statistical tools; if you're are interested a more-detailed descritption of the methods I have used, please email me!
+
+### Looking Forward
 LSST
 
 ## Past Research
