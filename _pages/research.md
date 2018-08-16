@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current Research
-<img align="right" src="/IceCube.jpeg">
+<img align="right" src="/IceCube.jpeg" width="200">
 Since October 2017, I have been working to try to identify the sources of high-energy neutrinos detected by the IceCube Neutrino Observatory at the South Pole. Neutrinos are very hard to detect particles, but when they pass through the Antarctic ice they emit radiation, allowing researchers to indirectly find the path the neutrino traveled through the ice. By tracing the path of interactions in the ice, IceCube can tell approximately where in the sky the neutrino came from, and this is where my focus lies.
 
 
