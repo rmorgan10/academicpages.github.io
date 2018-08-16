@@ -21,6 +21,8 @@ A major challenge for this project is that a lot of things (typically several hu
 By 2022, the Large Synoptic Survey Telescope (LSST) will have replaced Blanco/DECam as the most powerful optical telescope on the planet. LSST will be able to find objects much further away and much fainter than Blanco/DECam can, and will also be able to observe the entire southern sky. With the technological imrpovements of LSST, we anticipate having a much greater chance of detecting a supernova if it happened to be the source of an IceCube neutrino.
 <br><br>
 Slightly after first light at LSST, the IceCube Collaboration has planned to start an expansion of the IceCube Neutrino Observatory (IceCube Gen2). The original cubic-kilometer detector would reach a new volume of ten cubic-kilometers, which is roughly the 4,000 times larger than the Great Pyramid of Giza. The bigger detector would make tracing the path of the neutrion much more precise, making it much easier to isolate the source of the neutrino in the sky.
+<br><br>
+Along with continuing the search for neutrino sources, I will also be playing a role in the science verification of LSST while it is being constructed. Essentially, before we can take accurate observations of distant objects, we need to make sure we fully understand and can appropriately handle the data coming from the telescope. Over the next few months, I will be helping to calibrate the light filters of the camera so that studies like the neutrino source detection project can be possible.
 
 ## Past Research
 LFV
