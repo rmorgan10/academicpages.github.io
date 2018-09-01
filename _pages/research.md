@@ -25,6 +25,18 @@ Slightly after first light at LSST, the IceCube Collaboration has planned to sta
 Along with continuing the search for neutrino sources, I will also be playing a role in the science verification of LSST while it is being constructed. Essentially, before we can take accurate observations of distant objects, we need to make sure we fully understand and can appropriately handle the data coming from the telescope. Over the next few months, I will be helping to calibrate the light filters of the camera so that studies like the neutrino source detection project can be possible.
 
 ## Past Research
-LFV
-Serpens X-1
+
+### High-Energy Particle Physics Phenomenology
+Electrons and neutrinos belong to a class of subatomic particles called leptons, and one special property of leptons for which no contradicting evenidence has been found is known as the conservation of lepton flavor. Essentially, during a collision between particles that involves leptons, the number of electorn-like particles will remain constant, as will the numbers of other members of the lepton class. One discovery that made researchers rethink the conservation of lepton flavor was neutrinos having mass. Because neutrinos have mass, they exist as a mix of the quantum states of all three of the neutrinos that belong to the lepton class, and they can also oscillate from one state to another. If neutrinos can switch between the different lepton types, then we now have reason to suspect that lepton flavor conservation may not be an inherent law of physics.
+
+For my work in this field, I helped to quantify how likely it is to observe a particle collision that violates lepton flavor conservation at the Large Hadron Collider (LHC). We used simulation tools to calculate the observability of a lepton-flavor-violating collision compared to the observability of lepton-flavor-conserving processes that would look similar in the detector. This comparison, coupled with the fact that we have yet to observe lepton flavor violation at the present LHC energy level, allowed us to understand the size of the operators that would govern the underlying physics of lepton-flavor-violating interactions.
+
+You can read the paper we published [here](https://www.sciencedirect.com/science/article/pii/S0370269318306506?via%3Dihub).
+
+### X-ray Astronomy and Neutron Stars
+Neutron stars are home to some of the most exotic matter and physics in the entire universe. They are formed when stars roughly between 8 and 30 times the mass of the Sun reach the end of their lives and explode. With the right amount of mass, the explosion is powerful enough to force fast-moving protons and electrons together to form neutrons, but not strong enough to form a black hole. After the explosion, a very dense and small object that is believe to be composed of mostly neutrons is left behind, and we call this object a neutron star. To give a sense of scale, neutron stars are only about $30$~km in diameter, which is about the size of a large city like Detroit, MI, but weigh more than the entire sun. They are so dense that one teaspoon of neutron star matter would weigh roughly the same amount as Mount Everest.
+
+Now because neutron stars are so dense, if they happen to get close to a normal star, the neutron star's gravitational pull will start to rip material off of the companion star, much like a black hole devours everything around it. The matter will form a disk around the neutron star as it gets closer to the point of settling on the surface, and luckily because the neutron star is not dense enough to suck in light like black holes, researchers are able to observe this process known as accretion.
+
+
 Population Modelling
