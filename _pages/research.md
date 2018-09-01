@@ -31,13 +31,15 @@ Electrons and neutrinos belong to a class of subatomic particles called leptons,
 
 For my work in this field, I helped to quantify how likely it is to observe a particle collision that violates lepton flavor conservation at the Large Hadron Collider (LHC). We used simulation tools to calculate the observability of a lepton-flavor-violating collision compared to the observability of lepton-flavor-conserving processes that would look similar in the detector. This comparison, coupled with the fact that we have yet to observe lepton flavor violation at the present LHC energy level, allowed us to understand the size of the operators that would govern the underlying physics of lepton-flavor-violating interactions.
 
-[Click here to see the paper we published!](https://www.sciencedirect.com/science/article/pii/S0370269318306506?via%3Dihub).
+[Click here to see the paper we published!](https://www.sciencedirect.com/science/article/pii/S0370269318306506?via%3Dihub)
 
 ### X-ray Astronomy and Neutron Stars
 Neutron stars are home to some of the most exotic matter and physics in the entire universe. They are formed when stars roughly between 8 and 30 times the mass of the Sun reach the end of their lives and explode. With the right amount of mass, the explosion is powerful enough to force fast-moving protons and electrons together to form neutrons, but not strong enough to form a black hole. After the explosion, a very dense and small object that is believe to be composed of mostly neutrons is left behind, and we call this object a neutron star. To give a sense of scale, neutron stars are only about $30$~km in diameter, which is about the size of a large city like Detroit, MI, but weigh more than the entire sun. They are so dense that one teaspoon of neutron star matter would weigh roughly the same amount as Mount Everest.
 
 <img align="right" src="/Accretion.png" width="400">
 Now because neutron stars are so dense, if they happen to get close to a normal star, the neutron star's gravitational pull will start to rip material off of the companion star, much like a black hole devours everything around it. The matter will form a disk around the neutron star as it gets closer to the point of settling on the surface, and luckily because the neutron star is not dense enough to suck in light like black holes, researchers are able to observe this process known as accretion.
+
+Observing the light coming from the disk can yield a lot of information about the neutron star. We observed the neutron star binary system known as Serpens X-1, and by specifically looking at the light coming from iron atoms in the disk, we were able to determine the speed of the matter in the accretion disk. The speed of the matter in the disck has a direct relationship with the proximity of the disk to the neutron star, so by doing this calculation we were able to measure the inner radius of the accretion disk. Finally since the neutron star must be entirely contained by the disk, this measurement gave us a maximum possible size for the neutron star itself. We also were able to show that the size of the inner radius of the accretion disk does not change as the light from the disk gets brighter and fainter, which was a new finding in the field.
 
 
 Population Modelling
