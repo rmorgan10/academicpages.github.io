@@ -41,5 +41,7 @@ Now because neutron stars are so dense, if they happen to get close to a normal 
 
 Observing the light coming from the disk can yield a lot of information about the neutron star. We observed the neutron star binary system known as Serpens X-1, and by specifically looking at the light coming from iron atoms in the disk, we were able to determine the speed of the matter in the accretion disk. The speed of the matter in the disck has a direct relationship with the proximity of the disk to the neutron star, so by doing this calculation we were able to measure the inner radius of the accretion disk. Finally since the neutron star must be entirely contained by the disk, this measurement gave us a maximum possible size for the neutron star itself. We also were able to show that the size of the inner radius of the accretion disk does not change as the light from the disk gets brighter and fainter, which was a new finding in the field.
 
+[Click here to see the paper we published!](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/45/meta)
 
-Population Modelling
+## Questions?
+If you have any questions about my research, please don't hesitate to email me!
