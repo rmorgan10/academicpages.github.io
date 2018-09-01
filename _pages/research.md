@@ -43,5 +43,10 @@ Observing the light coming from the disk can yield a lot of information about th
 
 [Click here to see the paper we published!](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/45/meta)
 
+### Mathematics and Population Modelling
+This was my first research project ever! I analyzed the systems of equations that represent the population dynamics of predator-prey and competing-species ecological relationships. Specifically, I used linearization techniques to obtain approximate solutions to the systmes of differential equations. These techniques had been used before to understand these systems, but I was able to deepen the level of understanding of these relationships by developing a method for determining the approximated long-term dynamics of the populations based on just a few numbers. For example, using my work, it is possible to determine whether a predator-prey relationship will result in the extinction of the predator, the extinction of the prey, or a cyclic balance between the two populations. To find this end result, all that is required is the birth and death rates of the two populations, as well as the rate at which the predator can successfully catch the prey. Once that information is known, it is not necessary to solve the differential equations; one can compare the numbers based on the rules I developed and automatically understand the ecological system.
+
+[Click here to see the paper I published!](https://scholar.rose-hulman.edu/rhumj/vol16/iss2/5/)
+
 ## Questions?
 If you have any questions about my research, please don't hesitate to email me!
