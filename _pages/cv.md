@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Robert Morgan CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Robert Morgan
-
 ## Education
 
 _Ph.D._ in Physics, University of Wisconsin-Madison, 2017-Present
