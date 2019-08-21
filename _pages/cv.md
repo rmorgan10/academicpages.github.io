@@ -81,8 +81,12 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 - Wayne State University Liberal Arts and Sciences Undergraduate Research Fair, October 2016
 - Wayne State University Liberal Arts and Sciences Undergraduate Research Fair, April 2016
+..- Awarded Second Place Poster
 - Wayne State University Physics Department Undergraduate Research Fair, November 2015
+..- Awarded Second Place Poster
 - Wayne State University Annual Summer Undergraduate Research Mini-Symposium, August 2015
+..- Awarded First Place Poster
+
 
 ## Scholarships
 
@@ -118,9 +122,9 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 ### Dark Energy Survey Gravitational Wave Counterpart Discovery Team
 
-Applied machine learning methods to select interesting astronomical objects in real-time following gravitational wave alerts from LIGO/VIRGO. 
+Apply machine learning methods to select interesting astronomical objects in real-time following gravitational wave alerts from LIGO/VIRGO. 
 
-_Published GCN Circulars:_ [GCN 24480](https://gcn.gsfc.nasa.gov/gcn3/24480.gcn3) [GCN 25302](https://gcn.gsfc.nasa.gov/gcn3/25302.gcn3) [GCN 25336](https://gcn.gsfc.nasa.gov/gcn3/25336.gcn3)
+_Published GCN Circulars:_ [GCN 24480](https://gcn.gsfc.nasa.gov/gcn3/24480.gcn3) [GCN 25302](https://gcn.gsfc.nasa.gov/gcn3/25302.gcn3) [GCN 25336](https://gcn.gsfc.nasa.gov/gcn3/25336.gcn3) [GCN 25373](https://gcn.gsfc.nasa.gov/gcn3/25373.gcn3) [GCN 25398](https://gcn.gsfc.nasa.gov/gcn3/25398.gcn3) [GCN 25423](https://gcn.gsfc.nasa.gov/gcn3/25423.gcn3) [GSN 25425](https://gcn.gsfc.nasa.gov/gcn3/25425.gcn3) 
 
 ### Grants and Proposals
 
@@ -143,7 +147,7 @@ Instructed an introductory electricity and magnetism course for undergraduate en
 
 _Role:_ Undergraduate Mathematics Computer Lab Tutor, Wayne State University
 
-Guided students through algebra problems from 2013 to 2017. I was named the Mathematics Computer Lab Tutor of the Year in 2014.
+Guided students through algebra problems from 2013 to 2017. Named the Mathematics Computer Lab Tutor of the Year in 2014.
 
 ### Outreach
 
@@ -155,8 +159,8 @@ _Role:_ Camp Cosmos Counselor, Wayne State University
 
 Responsible for guiding ~20 middle school students in science activities and field trips during a week-long summer camp (2017).
 
-### WSU Club Soccer
+### Leadership: WSU Club Soccer
 
 _Role:_ President, Coach, Treasurer, and Player for the Wayne State Club Soccer Program from 2014-2017
 
-Organized an entire soccer program at the club-collegiate level. I ran tryouts, coordinated community volunteering efforts, reserved fields, managed budgets, fundraised, purchased new balls and jerseys, coordinated travel, planned practices, and managed and played in games. I also brought a full-size soccer field to the WSU campus for the first time in school history. In all three years, the program was a top team in the league and stayed in the black financially.
+Organized a soccer program at the club-collegiate level. Ran tryouts, coordinated community volunteering efforts, reserved fields, managed budgets, fundraised, purchased new balls and jerseys, coordinated travel, planned practices, and managed and played in games. Brought a full-size soccer field to the WSU campus for the first time in school history. In all three years, the program was a top team in the league and stayed in the black financially.
