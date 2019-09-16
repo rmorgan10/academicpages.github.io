@@ -54,7 +54,7 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 ### At Conferences
 
-_A DECam Search for Explosive Optical Transients Associated with IceCube Neutrinos_
+_A DECam Search for Explosive Optical Transients Associated with IceCube Neutrinos_ [Link to Talk](https://www.icrc2019.org/uploads/1/1/9/0/119067782/des_icecube_followup_icrc_morgan.pdf)
 
 - International Cosmic Ray Conference, Madison, WI, 2019 
 - American Physical Society April Meeting, Denver, CO, 2019 [Link to Talk](http://meetings.aps.org/Meeting/APR19/Session/Q09.4)
