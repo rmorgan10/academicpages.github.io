@@ -15,8 +15,12 @@ import glob
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("*.md")
+import sys
 
+g = glob.glob("_talks/*.md")
+
+print(g)
+#sys.exit()
 
 geocoder = Nominatim()
 location_dict = {}
