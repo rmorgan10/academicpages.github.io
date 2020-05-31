@@ -40,7 +40,7 @@ Large Synoptic Survey Telescope Data Science Fellowship Program 2018-Present
 
 ### As the Corresponding Author
 
-_A DECam Search for Explosive Optical Transients Associated with IceCube Neutrino Alerts_. Morgan et al., 2019. Accepted by ApJ. [arXiv: 1907.07193](https://arxiv.org/abs/1907.07193)
+_A DECam Search for Explosive Optical Transients Associated with IceCube Neutrino Alerts_. Morgan et al., 2019. Published in ApJ, Volume 883, Issue No. 2. [arXiv: 1907.07193](https://arxiv.org/abs/1907.07193) [DOI: 10.3847/1538-4357/ab3a45](https://doi.org/10.3847/1538-4357/ab3a45)
 
 _Linearization and Stability Analysis of Nonlinear Problems_. Morgan, 2015. Published in the Rose-Hulman Undergraduate Mathematics Journal, Volume 16, Issue No. 2. [Link to Article](https://scholar.rose-hulman.edu/rhumj/vol16/iss2/5/)
 
