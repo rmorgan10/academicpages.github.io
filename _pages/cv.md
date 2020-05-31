@@ -12,7 +12,7 @@ redirect_from:
 
 _Ph.D._ in Physics, University of Wisconsin-Madison, 2017-Present
 
-- _Coursework:_ Observational Cosmology, Experimental Methods in Astrophysics, Machine Learning (audit), Introduction to Deep Learning (audit)
+- _Coursework:_ Observational Cosmology, Experimental Methods in Astrophysics, Machine Learning (audit), Introduction to Deep Learning (audit), High-Energy Astrophysics
 
 _Ph.D. Minor_ in Computational Particle Physics, University of Wisconsin-Madison, 2017-2019
 
@@ -46,6 +46,8 @@ _Linearization and Stability Analysis of Nonlinear Problems_. Morgan, 2015. Publ
 
 ### As a Contributing Author
 
+_Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies_. Scolnic et al. [arXiv: 2002.00974](https://arxiv.org/abs/2002.00974)
+
 _Studies of Lepton Flavor Violation at the LHC_. Bhattacharya et al., 2018. Published in Physics Letters B, Volume 785, Issue No. 165. [arXiv: 1802.06082](https://arxiv.org/abs/1802.06082) [DOI: 10.1016/j.physletb.2018.08.037](https://doi.org/10.1016/j.physletb.2018.08.037)
 
 _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mass X-ray Binary Serpens X-1_. Chiang et al., 2016. Published in ApJ, Volume 831, Issue No. 45. [arXiv: 1604.08626](https://arxiv.org/abs/1604.08626) [DOI: 10.3847/0004-637X/831/1/45](https://iopscience.iop.org/article/10.3847/0004-637X/831/1/45)
@@ -53,6 +55,10 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 ## Talks
 
 ### At Conferences
+
+_Optical Follow-up Observations of the Neutron Star-Black Hole Merger S190814bv by The Dark Energy Survey_
+
+- American Physical Society April Meering, Washington D.C. (remote), 2020 [Link to Talk](https://absuploads.aps.org/presentation.cfm?pid=18042)
 
 _Recent Results from Multimessenger Follow-ups by the Dark Energy Survey_ 
 
@@ -129,7 +135,7 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 Apply machine learning methods to select interesting astronomical objects in real-time following gravitational wave alerts from LIGO/VIRGO. 
 
-_Published GCN Circulars:_ [GCN 24480](https://gcn.gsfc.nasa.gov/gcn3/24480.gcn3) [GCN 25302](https://gcn.gsfc.nasa.gov/gcn3/25302.gcn3) [GCN 25336](https://gcn.gsfc.nasa.gov/gcn3/25336.gcn3) [GCN 25373](https://gcn.gsfc.nasa.gov/gcn3/25373.gcn3) [GCN 25398](https://gcn.gsfc.nasa.gov/gcn3/25398.gcn3) [GCN 25423](https://gcn.gsfc.nasa.gov/gcn3/25423.gcn3) [GCN 25425](https://gcn.gsfc.nasa.gov/gcn3/25425.gcn3) [GCN 25438](https://gcn.gsfc.nasa.gov/gcn3/25438.gcn3) [GCN 25486](https://gcn.gsfc.nasa.gov/gcn3/25486.gcn3) [GCN 25540](https://gcn.gsfc.nasa.gov/gcn3/25540.gcn3)
+_Published GCN Circulars:_ [GCN 24480](https://gcn.gsfc.nasa.gov/gcn3/24480.gcn3) [GCN 25302](https://gcn.gsfc.nasa.gov/gcn3/25302.gcn3) [GCN 25336](https://gcn.gsfc.nasa.gov/gcn3/25336.gcn3) [GCN 25373](https://gcn.gsfc.nasa.gov/gcn3/25373.gcn3) [GCN 25398](https://gcn.gsfc.nasa.gov/gcn3/25398.gcn3) [GCN 25423](https://gcn.gsfc.nasa.gov/gcn3/25423.gcn3) [GCN 25425](https://gcn.gsfc.nasa.gov/gcn3/25425.gcn3) [GCN 25438](https://gcn.gsfc.nasa.gov/gcn3/25438.gcn3) [GCN 25486](https://gcn.gsfc.nasa.gov/gcn3/25486.gcn3) [GCN 25540](https://gcn.gsfc.nasa.gov/gcn3/25540.gcn3) [GCN 27366](https://gcn.gsfc.nasa.gov/gcn3/27366.gcn3) [GCN 27227](https://gcn.gsfc.nasa.gov/gcn3/27227.gcn3)
 
 ### Grants and Proposals
 
