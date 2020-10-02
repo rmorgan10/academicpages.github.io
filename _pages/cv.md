@@ -62,8 +62,6 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 ### As a DES Builder
 
-https://arxiv.org/abs/2008.11663
-
 _Probing galaxy evolution in massive clusters using ACT and DES: splashback as a cosmic clock_. Adhikari et al. 2020. Submitted. [arXiv: 2008.11663](https://arxiv.org/abs/2008.11663)
 
 _The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey Three-Year Cosmological Sample_. Kelsey et al. 2020. Submitted. [arXiv: 2008.12101](https://arxiv.org/abs/2008.12101)
@@ -120,8 +118,39 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 - Wayne State University Annual Summer Undergraduate Research Mini-Symposium, August 2015
 ..- Awarded First Place Poster
 
+## Undergraduate Students Mentored
 
-## Scholarships
+- Adam Shandonay. University of Wisconsin-Madison. Developing Convolution Neural Networks for Artifact Detection in Astronomical Difference Imaging.
+- Tristan Bachmann. University of Chicago. Models of Optical Emission from Binary Black Hole Mergers.
+- Nora Shermann. University of Michigan. Searches for Optical Emission from Binary Black Hole Mergers.
+- Jacqueline Beran. University of Wisconsin-Madison. Searches for Supernovae and Tidal Disruption Events in Coincidence with IceCube Neutrinos.
+..-Publication: [Searching for Explosive Optical Counterpars to IceCube Neutrinos](https://www.darkenergysurvey.org/darchive/searching-for-explosive-optical-counterparts-to-icecube-neutrinos/)
+
+## Graduate Fellowships
+
+- Universities Research Association Fermilab Visiting Scholar Program Fellow
+..- Proposed and was awarded funding for a 1-year research project at Fermilab
+- Legacy Survey of Space and Time Corporation Data Science Fellowship Program Fellow
+
+## Software
+
+### Personal Contributions
+
+- [`deeplenstronomy`](https://rmorgan10.github.io/deeplenstronomy/)
+..- A simulation package for astronomical images of strong graviataional lensing (available on PyPi)
+- [`DES_Followups`](https://github.com/rmorgan10/DES_Followups)
+..- A simulation and machine learning classification pipeline utilized in multiple publications ([1](https://doi.org/10.3847/1538-4357/abafaa), [2](https://doi.org/10.3847/1538-4357/ab3a45), [3](https://arxiv.org/abs/2007.00050))
+
+### Open-Source Contributions
+
+- [`lenstronomy`](https://github.com/sibirrer/lenstronomy)
+..- Incorporated a [ZTF observing mode](https://github.com/sibirrer/lenstronomy/blob/master/lenstronomy/SimulationAPI/ObservationConfig/ZTF.py) accompanied with [unit tests](https://github.com/sibirrer/lenstronomy/blob/master/test/test_SimulationAPI/test_ObservationConfig/test_ZTF.py)
+
+### Activity
+
+
+
+## Undergraduate Scholarships
 
 - 2018 Humphry Fellowship ($2,500)
 - 2017 Humphry Fellowship ($2,500)
@@ -135,7 +164,7 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 - 2013 National Merit Scholarship ($3,000)
 
 
-## Awards
+## Undergraduate Awards
 
 - 2017 Inducted into Phi Beta Kappa Honor Society
 - 2016 Inducted into Sigma Pi Sigma National Physics Honors Society
