@@ -40,17 +40,39 @@ Large Synoptic Survey Telescope Data Science Fellowship Program 2018-Present
 
 ### As the Corresponding Author
 
+_Constraints on the Physical Properties of GW190814 through Simulations Based on DECam Follow-up Observations by the Dark Energy Survey_. Morgan et al. 2020. Published in ApJ, Volume 901, Issue No. 1. [arXiv: 2006.07385](https://arxiv.org/abs/2006.07385v1) [DOI: 10.3847/1538-4357/abafaa](https://doi.org/10.3847/1538-4357/abafaa)
+
 _A DECam Search for Explosive Optical Transients Associated with IceCube Neutrino Alerts_. Morgan et al., 2019. Published in ApJ, Volume 883, Issue No. 2. [arXiv: 1907.07193](https://arxiv.org/abs/1907.07193) [DOI: 10.3847/1538-4357/ab3a45](https://doi.org/10.3847/1538-4357/ab3a45)
 
 _Linearization and Stability Analysis of Nonlinear Problems_. Morgan, 2015. Published in the Rose-Hulman Undergraduate Mathematics Journal, Volume 16, Issue No. 2. [Link to Article](https://scholar.rose-hulman.edu/rhumj/vol16/iss2/5/)
 
 ### As a Contributing Author
 
-_Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies_. Scolnic et al. [arXiv: 2002.00974](https://arxiv.org/abs/2002.00974)
+_Machine Learning for Searching the Dark Energy Survey for Trans-Neptunian Objects_. Henges et al. 2020. Submitted. [arXiv: 2009.12856](https://arxiv.org/abs/2009.12856v1)
+
+_A Statistical Standard Siren Measurement of the Hubble Constant from the LIGO/Virgo Gravitational Wave Compact Object Merger GW190814 and Dark Energy Survey Galaxies_. Palmese et al. 2020. Published in ApJ, Volume 900, Issue No. 2. [arXiv: 2006.14961](https://arxiv.org/abs/2006.14961) [DOI: 10.3847/2041-8213/abaeff](https://doi.org/10.3847/2041-8213/abaeff)
+
+_A DESGW Search for the Electromagnetic Counterpart to the LIGO/Virgo Gravitational Wave Binary Neutron Star Merger Candidate S190510g_. Garcia et al. 2020. Accepted by ApJ. [arXiv: 2007.00050](https://arxiv.org/abs/2007.00050)
+
+_Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies_. Scolnic et al. Published in ApJ, Volume 896, Issue No. 1. [arXiv: 2002.00974](https://arxiv.org/abs/2002.00974) [DOI: 10.3847/2041-8213/ab8735](https://doi.org/10.3847/2041-8213/ab8735)
 
 _Studies of Lepton Flavor Violation at the LHC_. Bhattacharya et al., 2018. Published in Physics Letters B, Volume 785, Issue No. 165. [arXiv: 1802.06082](https://arxiv.org/abs/1802.06082) [DOI: 10.1016/j.physletb.2018.08.037](https://doi.org/10.1016/j.physletb.2018.08.037)
 
 _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mass X-ray Binary Serpens X-1_. Chiang et al., 2016. Published in ApJ, Volume 831, Issue No. 45. [arXiv: 1604.08626](https://arxiv.org/abs/1604.08626) [DOI: 10.3847/0004-637X/831/1/45](https://iopscience.iop.org/article/10.3847/0004-637X/831/1/45)
+
+### As a DES Builder
+
+https://arxiv.org/abs/2008.11663
+
+_Probing galaxy evolution in massive clusters using ACT and DES: splashback as a cosmic clock_. Adhikari et al. 2020. Submitted. [arXiv: 2008.11663](https://arxiv.org/abs/2008.11663)
+
+_The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey Three-Year Cosmological Sample_. Kelsey et al. 2020. Submitted. [arXiv: 2008.12101](https://arxiv.org/abs/2008.12101)
+
+_The WaZP galaxy cluster sample of the Dark Energy Survey Year 1_. Aguena et al. 2020. Submitted. [arXiv: 2008.08711](https://arxiv.org/abs/2008.08711)
+
+_The Atacama Cosmology Telescope: A Catalog of > 4000 Sunyaev-Zel'dovich Galaxy Clusters_. Hilton et al. 2020. Submitted. [arXiv: 2009.11043](
+https://arxiv.org/abs/2009.11043)
+
 
 ## Talks
 
