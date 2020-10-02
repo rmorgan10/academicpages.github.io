@@ -106,7 +106,7 @@ _A DECam Search for Explosive Optical Transients Associated with IceCube Neutrin
 - Dark Energy Survey Collaboration Meeting, Campinas, Brazil, December 2018
 - Dark Energy Survey Collaboration Meeting, College Station, TX, May 2018
 
-## Poster Presentations
+### Poster Presentations
 
 _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mass X-ray Binary Serpens X-1_
 
@@ -150,6 +150,31 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 ![](./github_contributions.png)
 
+## Contributions to the Broader Field of Astronomy
+
+### Observing and Proposals
+
+_National Optical Astronomy Observatory Proposals:_
+
+- Revealing the Sources of High-Energy Astrophysical Neutrinos (2017B-0239,  	2017B-0243, 2018A-0256, 2018B-0312, 2019A-0240)
+- The DECam Search & Discovery Program for Optical Signatures of Gravitational Wave Events (2019A-0205, 2019B-0372)
+
+_Observing:_
+
+- Observed 7 nights for the Dark Energy Survey on the Blanco 4m Telescope at Cerro Tololo Inter-American Observatory in Chile
+- Observed 3 nights for the DECam Local Volume Exploration on the Blanco 4m Telescope remotely from Fermi National Accelerator Laboratory 
+
+### Realtime Notices Sent to the Astronomical Community
+
+- Gamma-Ray Coordinates Network: [GCN 24480](https://gcn.gsfc.nasa.gov/gcn3/24480.gcn3) [GCN 25302](https://gcn.gsfc.nasa.gov/gcn3/25302.gcn3) [GCN 25336](https://gcn.gsfc.nasa.gov/gcn3/25336.gcn3) [GCN 25373](https://gcn.gsfc.nasa.gov/gcn3/25373.gcn3) [GCN 25398](https://gcn.gsfc.nasa.gov/gcn3/25398.gcn3) [GCN 25423](https://gcn.gsfc.nasa.gov/gcn3/25423.gcn3) [GCN 25425](https://gcn.gsfc.nasa.gov/gcn3/25425.gcn3) [GCN 25438](https://gcn.gsfc.nasa.gov/gcn3/25438.gcn3) [GCN 25486](https://gcn.gsfc.nasa.gov/gcn3/25486.gcn3) [GCN 25540](https://gcn.gsfc.nasa.gov/gcn3/25540.gcn3) [GCN 27366](https://gcn.gsfc.nasa.gov/gcn3/27366.gcn3) [GCN 27227](https://gcn.gsfc.nasa.gov/gcn3/27227.gcn3)
+- Transient Name Server: Several postings
+
+## Seminar Series Organized
+
+- 11 Graduate Student Professional Development Seminars: https://rmorgan10.github.io/UWMadisonPGSC-PD/
+- 4 Graduate Student Research Seminars: https://rmorgan10.github.io/FROGS/
+
+
 ## Undergraduate Scholarships
 
 - 2018 Humphry Fellowship ($2,500)
@@ -181,25 +206,6 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 
 ## Additional Experience
-
-### Dark Energy Survey Gravitational Wave Counterpart Discovery Team
-
-Apply machine learning methods to select interesting astronomical objects in real-time following gravitational wave alerts from LIGO/VIRGO. 
-
-_Published GCN Circulars:_ [GCN 24480](https://gcn.gsfc.nasa.gov/gcn3/24480.gcn3) [GCN 25302](https://gcn.gsfc.nasa.gov/gcn3/25302.gcn3) [GCN 25336](https://gcn.gsfc.nasa.gov/gcn3/25336.gcn3) [GCN 25373](https://gcn.gsfc.nasa.gov/gcn3/25373.gcn3) [GCN 25398](https://gcn.gsfc.nasa.gov/gcn3/25398.gcn3) [GCN 25423](https://gcn.gsfc.nasa.gov/gcn3/25423.gcn3) [GCN 25425](https://gcn.gsfc.nasa.gov/gcn3/25425.gcn3) [GCN 25438](https://gcn.gsfc.nasa.gov/gcn3/25438.gcn3) [GCN 25486](https://gcn.gsfc.nasa.gov/gcn3/25486.gcn3) [GCN 25540](https://gcn.gsfc.nasa.gov/gcn3/25540.gcn3) [GCN 27366](https://gcn.gsfc.nasa.gov/gcn3/27366.gcn3) [GCN 27227](https://gcn.gsfc.nasa.gov/gcn3/27227.gcn3)
-
-### Grants and Proposals
-
-_National Optical Astronomy Observatory Proposals:_
-
-- Revealing the Sources of High-Energy Astrophysical Neutrinos (2017B-0239,  	2017B-0243, 2018A-0256, 2018B-0312, 2019A-0240)
-- The DECam Search & Discovery Program for Optical Signatures of Gravitational Wave Events (2019A-0205, 2019B-0372)
-
-### UW-Madison Physics Graduate Student Council
-
-_Role:_ Chair of Professional Development
-
-Organized the integration of professional development and data science topics into the UW-Madison graduate physics curriculum. Materials are available on [GitHub](https://github.com/rmorgan10/UWMadisonPGSC-PD) and events are document on the UW-Madison PGSC Professional Development [Website](https://rmorgan10.github.io/UWMadisonPGSC-PD/).
 
 ### Teaching
 
