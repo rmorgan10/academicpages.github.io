@@ -148,7 +148,7 @@ _On the Evolution of the Inner Disk Radius with Flux in the Neutron Star Low-Mas
 
 ### Activity
 
-
+![](./github_contributions.png)
 
 ## Undergraduate Scholarships
 
