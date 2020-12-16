@@ -5,7 +5,23 @@ permalink: /research/
 author_profile: true
 ---
 
-## Graduate Research
+## Thesis-Related Graduate Research
+
+summary about thesis
+
+### Discovering Exploding Stars Undergoing Strong Gravitational Lensing with Neural Networks 
+
+Summary
+
+### Detecting Light from Collisions of Black-Hole-like Astrophysical Objects
+
+Summary
+
+**Further Reading**
+- A [popular science article](https://www.symmetrymagazine.org/article/chasing-gravitational-waves) featuring the work of our team.
+<br><br>
+- My publication ([Journal Article](https://iopscience.iop.org/article/10.3847/1538-4357/abafaa) or [Free ArXiv Preprint](https://arxiv.org/abs/2006.07385v1)) on for this project.
+
 
 ### Revealing the Unknown Astrophysical Sources of High‐Energy Neutrinos
 <img align="right" src="/IceCube_caption.png" width="400">
@@ -23,6 +39,15 @@ A major challenge for this project is that a lot of things (typically several th
 - A [popular science article](https://www.darkenergysurvey.org/darchive/searching-for-explosive-optical-counterparts-to-icecube-neutrinos/) about this project that was written by an undergraduate student I advised, Jacqueline Beran.
 <br><br>
 - My publication ([Journal Article](https://iopscience.iop.org/article/10.3847/1538-4357/ab3a45) or [Free ArXiv Preprint](https://arxiv.org/abs/1907.07193)) on for this project.
+
+### Contributions to Other Research Projects
+
+summay
+
+### What telescopes are needed to optimize the measurements of the rate of expansion of the Universe?
+
+summary
+
 
 ## Undergraduate Research
 
@@ -49,4 +74,4 @@ This was my first research project ever! I analyzed the systems of equations tha
 [Click here to see the paper I published!](https://scholar.rose-hulman.edu/rhumj/vol16/iss2/5/)
 
 ## Questions?
-If you have any questions about my research, please don't hesitate to email me!
+If you have any questions about my research, please don't hesitate to reach out!
