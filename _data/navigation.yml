@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Research Portfolio"
     url: /research/
 
-  - title: "Talks"
+  - title: "Software Portfolio"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Outreach"
-    url: /outreach/
+  - title: "News & Mentions"
+    url: /news-and-mentions/    
         
   - title: "CV"
     url: /cv/
-    
-  - title: "Skills"
-    url: /skills/
-    
-  - title: "Guide"
-    url: /markdown/
+ 
