@@ -1,5 +1,5 @@
 ---
-title: "Skills"
+title: "My Skills"
 permalink: /skills/
 author_profile: true
 ---
