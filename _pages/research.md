@@ -22,7 +22,7 @@ A major challenge for this project is that a lot of things (typically several th
 <br><br>
 - A [popular science article](https://www.darkenergysurvey.org/darchive/searching-for-explosive-optical-counterparts-to-icecube-neutrinos/) about this project that was written by an undergraduate student I advised, Jacqueline Beran.
 <br><br>
-- My publication ([Jounral Article](https://iopscience.iop.org/article/10.3847/1538-4357/ab3a45) or [Free ArXiv Preprint](https://arxiv.org/abs/1907.07193)) on for this project.
+- My publication ([Journal Article](https://iopscience.iop.org/article/10.3847/1538-4357/ab3a45) or [Free ArXiv Preprint](https://arxiv.org/abs/1907.07193)) on for this project.
 
 ## Undergraduate Research
 
