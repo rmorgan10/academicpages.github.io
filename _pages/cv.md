@@ -40,6 +40,8 @@ Large Synoptic Survey Telescope Data Science Fellowship Program 2018-Present
 
 ### As the Corresponding Author
 
+_Deeplenstronomy: A dataset simulation package for strong gravitational lensing_. Morgan et al. 2021. Published in JOSS, Volume 6, Issue No. 58. [arXiv: 2102.02830](https://arxiv.org/abs/2102.02830) [DOI: 10.21105/joss.02854](https://doi.org/10.21105/joss.02854)
+
 _Constraints on the Physical Properties of GW190814 through Simulations Based on DECam Follow-up Observations by the Dark Energy Survey_. Morgan et al. 2020. Published in ApJ, Volume 901, Issue No. 1. [arXiv: 2006.07385](https://arxiv.org/abs/2006.07385v1) [DOI: 10.3847/1538-4357/abafaa](https://doi.org/10.3847/1538-4357/abafaa)
 
 _A DECam Search for Explosive Optical Transients Associated with IceCube Neutrino Alerts_. Morgan et al., 2019. Published in ApJ, Volume 883, Issue No. 2. [arXiv: 1907.07193](https://arxiv.org/abs/1907.07193) [DOI: 10.3847/1538-4357/ab3a45](https://doi.org/10.3847/1538-4357/ab3a45)
